@@ -30,6 +30,7 @@
         ![Debug Settings](https://coleca.github.io/imgs/phpstorm-debug/debug_settings.png?raw=true)
 
     * Navigate to `Languages & Frameworks` -> `PHP` -> `Servers` 
+    * Setup new server as shown in the screenshot below taking note to add in the mapping between your local project and the directory from the container.
         ![PHP Server](https://coleca.github.io/imgs/phpstorm-debug/php_server.png?raw=true)
     
 4. Configure PHPStorm / IntelliJ Project Debug Settings 
